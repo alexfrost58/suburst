@@ -130,37 +130,40 @@
    {
   "name": "Unexpected",
   "children": [
-   {"name": "user-click-catalog tab", "size": 50.0000000000007},
-   {"name": "user-click-databases tab", "size": 39.9999999999991},
-   {"name": "user-click-catalog tab", "size": 40.0000000000027}
+    {"name": "user-click-homepage", "size": 49.9999999999972},
+    {"name": "user-click-services sidebar link", "size": 240.000000000002},
+    {"name": "user-click-services for faculty and staff sidebar link", "size": 910.000000000004},
+    {"name": "user-click-research help", "size": 109.999999999999},
+    {"name": "user-click-research guides", "size": 59.9999999999952},
+    {"name": "user-click-back", "size": 100.000000000001},
+    {"name": "user-click-services sidebar link", "size": 469.999999999999},
+    {"name": "user-click-checkout and library cards sidebar link", "size": 200.000000000003},
+    {"name": "user-click-visitors sidebar link", "size": 170.000000000002}
   ]
 },
 {
  "name": "Instruction",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "task-instruction -", "size": 49.9999999999972}
  ]
 },
 {
  "name": "Expected",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-click-myLibrarian sidebar link", "size": 1210},
+    {"name": "user-click-Schedule Jennifer", "size": 449.999999999996},
+    {"name": "user-click-date", "size": 20.0000000000031},
+    {"name": "user-click-time", "size": 89.9999999999963},
+    {"name": "user-type-name", "size": 109.999999999999},
+    {"name": "user-type-email", "size": 149.999999999999},
+    {"name": "user-click-confirm appointment", "size": 50.0000000000043},
+    {"name": "screen-complete", "size": 9.99999999999801}
  ]
 },
 {
  "name": "Comments",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
- ]
-},
-{
- "name": "Sys Error",
- "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+   {"name": "user-comment-", "size": 899.999999999999}
  ]
 }
 ]
@@ -168,40 +171,23 @@
 {
  "name": "Task 5",
  "children": [
-   {
-  "name": "Unexpected",
-  "children": [
-   {"name": "user-click-catalog tab", "size": 50.0000000000007},
-   {"name": "user-click-databases tab", "size": 39.9999999999991},
-   {"name": "user-click-catalog tab", "size": 40.0000000000027}
-  ]
-},
 {
  "name": "Instruction",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+   {"name": "task-instruction -", "size": 630.000000000003}
  ]
 },
 {
  "name": "Expected",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
- ]
-},
-{
- "name": "Comments",
- "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
- ]
-},
-{
- "name": "Sys Error",
- "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-click-your library and beyond", "size": 210.000000000001},
+    {"name": "user-click-Sookyung drop down menu", "size": 39.9999999999991},
+    {"name": "user-click-my account", "size": 210.000000000001},
+    {"name": "user-click-remove", "size": 9.99999999999801},
+    {"name": "user-click-yes, remove my hold", "size": 30.0000000000011},
+    {"name": "user-click-ok", "size": 1650},
+    {"name": "screen-complete", "size": 79.9999999999983},
+    {"name": "screen;task-complete", "size": 80.0000000000054}
  ]
 }
 ]
@@ -209,40 +195,38 @@
 {
  "name": "Task 6",
  "children": [
-   {
-  "name": "Unexpected",
-  "children": [
-   {"name": "user-click-catalog tab", "size": 50.0000000000007},
-   {"name": "user-click-databases tab", "size": 39.9999999999991},
-   {"name": "user-click-catalog tab", "size": 40.0000000000027}
-  ]
-},
 {
  "name": "Instruction",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "task-instruction -", "size": 79.9999999999983}
  ]
 },
 {
  "name": "Expected",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-click-Sookyung drop down menu", "size": 100.000000000001},
+    {"name": "user-click-my personal lists", "size": 19.999999999996},
+    {"name": "user-click-library links drop down menu", "size": 39.9999999999991},
+    {"name": "user-click-Sookyung drop down menu", "size": 10.0000000000051},
+    {"name": "user-click-my account", "size": 890.000000000001},
+    {"name": "user-click-back to homepage", "size": 19.999999999996},
+    {"name": "user-click-myLibrarian sidebar link", "size": 30.0000000000011},
+    {"name": "user-click-schedules and calendars", "size": 269.999999999996},
+    {"name": "user-click-homepage", "size": 109.999999999999},
+    {"name": "user-click-myLibrarian sidebar link", "size": 79.9999999999983},
+    {"name": "user-click-Jennifer Smith", "size": 229.999999999997},
+    {"name": "screen-incomplete", "size": 39.9999999999991}
  ]
 },
 {
  "name": "Comments",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
- ]
-},
-{
- "name": "Sys Error",
- "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-comment-", "size": 20.0000000000031},
+    {"name": "user-click;comment-Schedule Jennifer", "size": 500},
+    {"name": "user-comment-", "size": 830.000000000005},
+    {"name": "user-comment-", "size": 600.000000000001},
+    {"name": "user-comment-", "size": 899.999999999999},
+    {"name": "user-comment-end of task", "size": 1970}
  ]
 }
 ]
@@ -250,47 +234,138 @@
 {
  "name": "Task 7",
  "children": [
-   {
-  "name": "Unexpected",
-  "children": [
-   {"name": "user-click-catalog tab", "size": 50.0000000000007},
-   {"name": "user-click-databases tab", "size": 39.9999999999991},
-   {"name": "user-click-catalog tab", "size": 40.0000000000027}
-  ]
-},
 {
  "name": "Instruction",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+   {"name": "task-instruction -", "size": 60.0000000000023}
  ]
 },
 {
  "name": "Expected",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-click-homepage", "size": 120.000000000005},
+    {"name": "user-type-{catalog tab} vampire movie", "size": 819.999999999993},
+    {"name": "user-click-format-video", "size": 189.999999999998},
+    {"name": "user-type-vampire diaries season 6", "size": 119.99999999999},
+    {"name": "user-click-format-video", "size": 20.0000000000102},
+    {"name": "user-type-vampire", "size": 49.9999999999972},
+    {"name": "user-click-format-video", "size": 260.000000000005},
+    {"name": "screen-complete", "size": 89.9999999999892}
  ]
 },
 {
  "name": "Comments",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-comment-", "size": 130.00000000001},
+    {"name": "user-comment-", "size": 549.999999999997}
+ ]
+}
+]
+},
+{
+ "name": "Task 8",
+ "children": [
+   {
+  "name": "Unexpected",
+  "children": [
+    {"name": "user-click-star button", "size": 459.999999999994},
+    {"name": "user-click-share drop-down menu", "size": 9.99999999999091},
+    {"name": "user-click-email reord", "size": 20.0000000000102},
+    {"name": "user-type-email address", "size": 19.999999999996},
+    {"name": "user-click-send email", "size": 19.999999999996},
+    {"name": "user-click-close", "size": 20.0000000000102},
+    {"name": "user-click-share drop-down menu", "size": 9.99999999999091},
+    {"name": "user-click-email record", "size": 20.0000000000102},
+    {"name": "user-type-email address", "size": 0},
+    {"name": "user-click-send email", "size": 19.999999999996},
+    {"name": "user-click-close", "size": 30.0000000000011},
+    {"name": "user-click-special collections sidebar link", "size": 189.999999999998},
+    {"name": "user-click-students sidebar link", "size": 150.000000000006},
+    {"name": "user-click-friends of steely library sidebar link", "size": 60.0000000000023},
+    {"name": "user-click-back button", "size": 39.999999999992},
+    {"name": "user-click-find books and more sidebar link", "size": 30.0000000000011},
+    {"name": "user-click-research help sidebar link", "size": 30.0000000000011},
+    {"name": "user-click-services sidebar link", "size": 430.000000000007},
+    {"name": "user-click-about the library sidebar link", "size": 99.9999999999943},
+    {"name": "user-click-faculty and staff sidebar link", "size": 60.0000000000023},
+    {"name": "user-click-students sidebar link", "size": 79.9999999999983},
+    {"name": "user-click-visitors sidebar link", "size": 49.9999999999972},
+    {"name": "user-click-library career development sidebar link", "size": 79.9999999999983},
+    {"name": "user-click-back button", "size": 50.0000000000114},
+    {"name": "user-click-give to steely library sidebar link", "size": 49.9999999999972},
+    {"name": "user-click-special collections sidebar link", "size": 450.000000000003},
+    {"name": "user-click-back button", "size": 19.999999999996},
+    {"name": "user-click-friends of steely library sidebar link", "size": 30.0000000000011},
+    {"name": "user-click-ask steely library sidebar link", "size": 79.9999999999983},
+    {"name": "user-click-email questions", "size": 30.0000000000011},
+    {"name": "user-click-question in regards to", "size": 30.0000000000011},
+    {"name": "user-click-librarian open office hours sidebar link", "size": 19.999999999996},
+    {"name": "user-click-myLibrarian sidebar link", "size": 670.000000000002},
+    {"name": "user-click-homepage", "size": 69.9999999999932}
+  ]
+},
+{
+ "name": "Instruction",
+ "children": [
+   {"name": "task-instruction -", "size": 549.999999999997}
  ]
 },
 {
- "name": "Sys Error",
+ "name": "Expected",
  "children": [
-   {"name": "scenario1-", "size": 89.9999999999999},
-   {"name": "task-instruction -", "size": 129.999999999999}
+    {"name": "user-click-share drop-down menu", "size": 49.9999999999972},
+    {"name": "user-click-email record", "size": 49.9999999999972},
+    {"name": "user-type-email address", "size": 50.0000000000114},
+    {"name": "user-click-send email", "size": 19.999999999996},
+    {"name": "user-click-close", "size": 109.999999999999},
+    {"name": "screen-complete", "size": 39.999999999992}
+ ]
+},
+{
+ "name": "Comments",
+ "children": [
+    {"name": "user-comment-end of task", "size": 1010.00000000001},
+    {"name": "user-comment-", "size": 79.9999999999983},
+    {"name": "user-comment-", "size": 310.000000000002}
+ ]
+}
+]
+},
+{
+ "name": "Task 9",
+ "children": [
+   {
+  "name": "Unexpected",
+  "children": [
+    {"name": "user-click-quick links", "size": 240.000000000009},
+    {"name": "screen-incomplete", "size": 439.999999999998}
+  ]
+},
+{
+ "name": "Instruction",
+ "children": [
+   {"name": "task-instruction -", "size": 69.9999999999932}
+ ]
+},
+{
+ "name": "Expected",
+ "children": [
+    {"name": "user-click-submit a comment now!", "size": 60.0000000000023},
+    {"name": "user-type-name", "size": 70.0000000000074},
+    {"name": "user-type-comment", "size": 919.999999999987},
+    {"name": "user-type-captcha", "size": 60.0000000000023},
+    {"name": "user-click-submit", "size": 10.0000000000051}
+ ]
+},
+{
+ "name": "Comments",
+ "children": [
+    {"name": "user-comment-end of task", "size": 1210.00000000001},
+    {"name": "user-comment;click-we need your feeback", "size": 69.9999999999932}
  ]
 }
 ]
 }
-
-
-
 
 
  ]
